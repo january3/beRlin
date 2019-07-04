@@ -23,6 +23,7 @@ goodByeBerlin <- function() {
 
 #' Say good bye one more time
 #'
+#' Another test function
 #' @export
 goodByeBerlin2 <- function() {
   cat("Good bye! Goodbye! GOOD BYE!!!")
