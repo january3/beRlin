@@ -21,3 +21,10 @@ goodByeBerlin <- function() {
   cat("Goodbye – Guten Einkauf\n")
 }
 
+#' Say good bye one more time
+#'
+#' @export
+goodByeBerlin2 <- function() {
+  cat("Good bye! Goodbye!")
+}
+
