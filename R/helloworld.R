@@ -2,7 +2,7 @@
 #'
 #' Say Hello, but only to Berlin
 #'
-#' Sucks if you are not Berlin.
+#' Sucks if you are not Berlin...
 #' @param message What do you want to say to Berlin?
 #' @examples
 #' helloBerlin("How are you?")
