@@ -28,3 +28,10 @@ goodByeBerlin2 <- function() {
   cat("Good bye! Goodbye! GOOD BYE!!!")
 }
 
+#' Say oh my god
+#'
+#' @export
+ohmygod <- function() {
+  cat("Oh my god!")
+}
+
